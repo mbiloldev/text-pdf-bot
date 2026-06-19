@@ -2,6 +2,11 @@
 
 Foydalanuvchi yuborgan **matn** va **rasmni** avtomatik ravishda **PDF faylga** aylantirib qaytaruvchi Telegram bot.
 
+# UZBEK CODER
+
+<div align="center">
+  <img src="./banner.svg" width="100%"/>
+</div>
 ---
 
 ## 📦 Kerakli paketlar (NuGet)
